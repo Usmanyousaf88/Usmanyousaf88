@@ -14,11 +14,11 @@
   Hi, I'm Usman Yousaf, AIWeb Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from Pakistan.
   <br />
   <br />
-  🎓 Currently Working On deepAgencts.
+  🎓 Currently Working On deepAgents.They will perform any task with just one command. All my repo are Private.
   <br />
-  💻 I love to learn new technologies and frameworks.
+  💻 I love to learn new technologies and frameworks. Currently Exploring No0Code_Builders
   <br />
-  🧑‍💼 I’m currently a freelancer working as a AI developer.
+  🧑‍💼 I’m currently looking to just get out from Pakistan becasue working as AI developer. I will reach nowhere.
   <br />
 </p>
 
