@@ -18,7 +18,7 @@
   <br />
   💻 I love to learn new technologies and frameworks. Currently Exploring No0Code_Builders
   <br />
-  🧑‍💼 I’m currently looking to just get out from Pakistan becasue working as AI developer. I will reach nowhere.
+  🧑‍💼 I’m currently working out from Pakistan as AI developer for Preswerx.com and Solution Architect for bytespace.ai and Uxer.ai.
   <br />
 </p>
 
